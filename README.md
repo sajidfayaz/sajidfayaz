@@ -8,4 +8,3 @@
 - 💬 Ask me about JavaScript, Node and MongoDB.
 - 📫 How to reach me: Twitter: @sajidfayaz99
 - ⚡ Fun fact: Whenever I feel down, I talk to myself. 😂
--->
