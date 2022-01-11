@@ -13,7 +13,6 @@
 - ⚡ Fun fact: Whenever I feel down, I talk to myself. 😂
 
 
-<img width="495em" src="https://github-readme-stats.vercel.app/api?username=sajidfayazshow_icons=true&include_all_commits=true&count_private=true&hide_border=false" />
 
 <img width="495em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajidfayaz&layout=compact&custom_title=Most used languages by LOCs">
 
