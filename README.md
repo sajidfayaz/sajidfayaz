@@ -4,7 +4,7 @@
                                                  Hit me up on any of my socials. 🙂
 
 
-- 🔭 I’m currently working on YourMentor App
+- 🔭 I’m currently working on Athena Mentorship App
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on any good projects.
 - 🤔 I’m looking for help with finding Internships.
